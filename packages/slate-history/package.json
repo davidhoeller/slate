@@ -18,12 +18,9 @@
     "is-plain-object": "^3.0.0"
   },
   "devDependencies": {
-    "slate": "^0.59.0",
     "slate-hyperscript": "^0.59.0"
   },
-  "peerDependencies": {
-    "slate": ">=0.55.0"
-  },
+  "peerDependencies": {},
   "umdGlobals": {
     "slate": "Slate"
   },
